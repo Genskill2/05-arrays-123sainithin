@@ -30,4 +30,5 @@ float average(int a[], int n){
     return sum/n;
 }
 /*mode function*/
+
 int mode(int a[], int length
